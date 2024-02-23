@@ -1,4 +1,4 @@
-# Project Title: Analysis of Largest US Companies by Revenue in 2023
+# Analysis of Largest US Companies by Revenue in 2023
 
 ## Description
 
